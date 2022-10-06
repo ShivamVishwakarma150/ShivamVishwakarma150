@@ -57,7 +57,7 @@ Shivam<br />
 </details>
 </div>
 
-  #🔥 Streak stats
+  ### 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats  -->
 <p align="center">
