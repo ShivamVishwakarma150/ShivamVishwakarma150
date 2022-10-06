@@ -56,7 +56,16 @@ Shivam<br />
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 </div>
-  <div>[![GitHub Streak](https://streak-stats.demolab.com/?user=ShivamVishwakarma150)](https://git.io/streak-stats)</div>
+  ## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShivamVishwakarma150's streak" src="https://streak-stats.demolab.com/?user=ShivamVishwakarma150&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ShivamVishwakarma150&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!---
