@@ -19,7 +19,7 @@
 
 - 👀 I’m interested in Competitive Programming and Development.
 
-- 🌱 I’m currently learning Advance Java including Spring,hibernate,SpringBoot.
+- 🌱 I’m currently learning Advance Java including Spring, Hibernate, SpringBoot.
 
 - 💞️ I’m looking to collaborate on Real Life Projects and opportunities.
 
