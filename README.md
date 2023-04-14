@@ -21,8 +21,6 @@
 
 - 🌱 I’m currently learning Advance Java including Spring, Hibernate, SpringBoot.
 
-- 💞️ I’m looking to collaborate on Real Life Projects and opportunities.
-
 - 💬 Ask me about stuff related to programming.
 
 - 📫 How to reach me Mail : arvind.972176@gmail.com
