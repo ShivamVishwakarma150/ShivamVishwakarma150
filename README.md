@@ -96,5 +96,5 @@ You can click the Preview link to take a look at your changes.
 
 ## ⚙ Languages Used:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamvishwakarma150&show_icons=true&locale=en" alt="shivamvishwakarma150" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamvishwakarma150&show_icons=true&locale=en&layout=compact" alt="shivamvishwakarma150" /></p>
 
