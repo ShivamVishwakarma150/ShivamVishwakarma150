@@ -15,6 +15,8 @@
 <br />
 <br />
 
+![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 - This is the place where I opensource stuff and break things 🤣
 
 - 👀 I’m interested in Competitive Programming and Development.
